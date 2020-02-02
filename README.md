@@ -1,14 +1,12 @@
 # Gender Classification
-# OBJECTIVE:
+## OBJECTIVE:
 To predict the gender in the given data set (Twitter data set) using  various feature engineering technique and machine learning model.
 
 
-# Technique Used
-## Feature Construction:
+## Technique Used
+### Feature Construction:
 ```
 - Reducing the number of column.
-                        
-                        - Using # NLP technique like Count Vectorizer, StopWord, Tokenization, Lemmatization are used to analyze the text.
-                        
-                        - Used Count Vectorizer to count the frequency of the common repeated words and assign the common words to Sparce                             Matrix
+- Used NLP technique like Count Vectorizer, StopWord, Tokenization, Lemmatization are used to analyze the text.
+- Used Count Vectorizer to count the frequency of the common repeated words and assign the common words to Sparce matrix.              
 ```
